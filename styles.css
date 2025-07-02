@@ -3,17 +3,18 @@ body {
   font-family: "Helvetica", "Open Sans", sans-serif;
   background: rgb(255, 255, 179);
   text-align: center;
-  max-width: 600px;
-  margin: auto;
 
 }
 
-
-#cultureindian {
+.container {
   background: green;
   color: white;
-  padding: 50px;
-  margin: 10px;
+
+}
+
+#cultureindian {
+  width: 1000px;
+  padding: 70px;
   border: 5px solid black;
 
 }
